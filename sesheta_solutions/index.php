@@ -1,3 +1,4 @@
+<?php include('includes/process.php');?>
 <!doctype html>
 <html lang="en">
 <head>
