@@ -1,3 +1,4 @@
+<?php include('includes/process.php');?>
 <!doctype html>
 <html lang="en">
 <head>
@@ -37,62 +38,6 @@
 <img class="imgleft" src="images/selfie.jpg" width="225" height="300" alt="Emma in orange hat and reflective glasses">
 
 </main>
-
-<aside class="sidebar">
-<h3 class="poems">Still I rise</h3>
-<p class="authors">By Maya Angelou<p>
-
-<p>You may write me down in history<br>
-With your bitter, twisted lies,<br>
-You may trod me in the very dirt<br>
-But still, like dust, I'll rise.</p>
-
-<p>Does my sassiness upset you?<br>
-Why are you beset with gloom?<br>
-'Cause I walk like I;ve got oil wells<br>
-Pumping in my living room.</p>
-
-<p>Just like moons and like sons,<br>
-With the certainty of tides,<br>
-Just like hopes springing high,<br>
-Still I'll rise.</p>
-
-<p>Did you want to see me broken?<br>
-Bowed head and lowered eyes?<br>
-Shoulders falling down like teardrops,
-Weakened by my soulful cries?</p>
-
-<p>Does my haughtiness offend you?<br>
-Don't you take it awful hard<br>
-'Cause I laugh like I've got gold mines<br>
-Diggin' in my own backyard.</p>
-
-<p>You may shoot me with your words,<br>
-You may cut me with your eyes,<br>
-You may kill me with your hatefulness,<br>
-But still, like air, I'll rise.</p>
-
-<p>Does my sexiness upset you?<br>
-Does it come as a surprise<br>
-That I dance like I've got diamonds<br>
-At the meeting of my thighs?</p>
-
-<p>Out of the huts of history's shame<br>
-I rise<br>
-Up from a past that's rooted in pain<br>
-I rise<br>
-I'm a black ocean, leaping and wide,<br>
-Welling and swelling I bear in the tide.</p>
-
-<p>Leaving behind the nights of terror and fear<br>
-I rise<br>
-Into a daybreak that's wondrously clear<br>
-I rise<br>
-Bringing the gifts that my ancestors gave,<br>
-I am the dream and the hope of the slave.<br>
-I rise<br>
-I rise<br>
-I rise.</p>
 
 <p><span class="emph">-Copyright &#169; 1978 by Maya Angelou. Reproduced under educational fair use.</span></p>
 
